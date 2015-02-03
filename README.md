@@ -2,6 +2,10 @@
 
 This is a tiny project to override (and make) the styles of markdown documents formatted on GitHub better.
 
+## Screenshot (Before and after)
+
+![screenshot](https://github.com/nobu417/css-override-for-github-markdown/blob/master/screenshot.png)
+
 ## Usage.
 
 You can use just a code of override.css as any methods to override CSS on your favorite web browser locally.
